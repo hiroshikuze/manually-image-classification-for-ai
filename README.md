@@ -41,6 +41,12 @@ Run from the web server.
 
 [hiroshikuze](https://github.com/hiroshikuze/)
 
+## ⭐ Star this project
+
+If you find this useful, please give it a star!
+
+[![GitHub Stars](https://img.shields.io/github/stars/hiroshikuze/manually-image-classification-for-ai?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/hiroshikuze/manually-image-classification-for-ai/stargazers)
+
 ## 💖 Support my work
 
 If you'd like to support my projects, please consider becoming a sponsor!
